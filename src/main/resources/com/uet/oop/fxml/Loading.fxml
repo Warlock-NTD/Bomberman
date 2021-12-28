@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="540.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="540.0" fitWidth="720.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/Background/loadingGame.gif" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="540.0" fitWidth="720.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/Background/leftSide.gif" />
+         </image>
+      </ImageView>
+      <Text layoutX="130.0" layoutY="285.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="Snap ITC" size="40.0" />
+         </font>
+      </Text>
+      <Text layoutX="130.0" layoutY="346.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="Snap ITC" size="40.0" />
+         </font>
+      </Text>
+      <Text layoutX="38.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="Snap ITC" size="40.0" />
+         </font>
+      </Text>
+      <Text layoutX="130.0" layoutY="214.0" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font name="Snap ITC" size="40.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

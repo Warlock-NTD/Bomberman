@@ -1,2 +1,3 @@
 # Bomberman
-Partial Session I've join in is Constructing Heuristic Algorithms to Build Bot Game Artificial Intelligence
+# UML Diagram save in Directory: BombermanUML
+Partial Session I'd join in this Project is Constructing Heuristic Algorithms to Build Bot Game Artificial Intelligence

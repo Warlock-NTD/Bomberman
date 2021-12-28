@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane fx:id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="540.0" prefWidth="720.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.uet.oop.BombermanGame">
+   <children>
+      <ImageView fitHeight="540.0" fitWidth="720.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Images/Background/opening.gif" />
+         </image></ImageView>
+      <Label layoutX="95.0" layoutY="324.0" onMouseClicked="#playButtonOnClicked" prefHeight="70.0" prefWidth="181.0" />
+   </children>
+</Pane>
